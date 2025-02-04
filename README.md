@@ -22,8 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthewadel&show_icons=true&locale=en&layout=compact" alt="matthewadel" /></p>
 
-<img alt="Coding" width="400" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewadel&show_icons=true&locale=en" alt="matthewadel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewadel&" alt="matthewadel" /></p>
+
+<img alt="Coding" width="100%" height="200" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
