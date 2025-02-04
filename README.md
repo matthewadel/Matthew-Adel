@@ -1,9 +1,13 @@
 
-# Hello World! 🌍 I'm Sohila Khaled Abbas 👋🏼
-An **ambitious Data Analyst** based in Damietta, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
+# Hello World! 🌍 I'm Matthew Adel 👋🏼
 A Geek Software Dveloper, Turning Coffee Into Code
+
 # 💫 About Me:
-📊 I’m currently working as Software Developer at Vodafone (_VOIS).<br>👨🏼‍💻 Working as a software developer since 2019<br>🌱 Exploring advanced AI tools, and automation techniques to speed up development time<br>👨🏼‍🎓 Currently studying back-end development using nodejs, expressjs, nestjs and postgresql<br>💬 Ask me about front-end web and mobile development using reactjs and react-native<br>✨ Fluent in Arabic and English (C2)
+📊 I’m currently working as Software Developer at Vodafone (_VOIS).<br>👨🏼‍💻 Working as a software developer since 2019
+🌱 Exploring advanced AI tools, and automation techniques to speed up development time
+👨🏼‍🎓 Currently studying back-end development using nodejs, expressjs, nestjs and postgresql
+💬 Ask me about front-end web and mobile development using reactjs and react-native
+✨ Fluent in Arabic and English (C2)
 
 
 
