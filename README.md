@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewadel&show_icons=true&locale=en" alt="matthewadel" /></p>
 
 
-<img alt="Coding" width="100%" height="200" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+<img alt="Coding" width="100%" height="400" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
