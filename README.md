@@ -4,7 +4,7 @@ A Geek Software Dveloper, Turning Coffee Into Code
 
 # 💫 About Me:
 📊 I’m currently working as Software Developer at Vodafone (_VOIS).</br>
-👨🏼‍💻 Working as a software developer since 2019</br>
+👨🏼‍💻 Uploaded 10+ apps on both appstore and playstore </br>
 🌱 Exploring advanced AI tools, and automation techniques to speed up development time</br>
 👨🏼‍🎓 Currently studying back-end development using nodejs, expressjs, nestjs and postgresql</br>
 💬 Ask me about front-end web and mobile development using reactjs and react-native</br>
