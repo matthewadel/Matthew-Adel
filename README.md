@@ -1,7 +1,7 @@
 # 💫 About Me:
 📊 I’m currently working as Software Developer at Vodafone (_VOIS).<br>👨🏼‍💻 Working as a software developer since 2019<br>🌱 Exploring advanced AI tools, and automation techniques to speed up development time<br>👨🏼‍🎓 Currently studying back-end development using nodejs, expressjs, nestjs and postgresql<br>💬 Ask me about front-end web and mobile development using reactjs and react-native<br>✨ Fluent in Arabic and English (C2)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-adel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthewadel69@yahoo.com) 
