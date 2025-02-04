@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Adel</h1>
 <h3 align="center">Senior Mobile Developer, Turning Coffee into Code ☕➡️💻</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 - 👨‍💻 All of my projects are available at [https://matthew-adel.carrd.co/](https://matthew-adel.carrd.co/)
