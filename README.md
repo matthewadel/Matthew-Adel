@@ -1,9 +1,11 @@
 <p align="left">
+Hello World! 🌍 I'm Matthew Adel 👋🏼
+A Geek Software Dveloper, Turning Coffee Into Code
 # 💫 About Me:
 📊 I’m currently working as Software Developer at Vodafone (_VOIS).<br>👨🏼‍💻 Working as a software developer since 2019<br>🌱 Exploring advanced AI tools, and automation techniques to speed up development time<br>👨🏼‍🎓 Currently studying back-end development using nodejs, expressjs, nestjs and postgresql<br>💬 Ask me about front-end web and mobile development using reactjs and react-native<br>✨ Fluent in Arabic and English (C2)
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+// <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 ## 🌐 Socials:
